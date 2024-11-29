@@ -1,0 +1,233 @@
+<!DOCTYPE html>
+<!-- saved from url=(0047)file:///C:/Users/Acer/Desktop/jednak%20ten.html -->
+<html lang="pl"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Recenzja dla Bartusia</title>
+    <style>
+        body {
+            font-family: ARIAL, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f5f5dc; 
+            background-image: linear-gradient(to right, #f5f5dc, #e0e0e0);
+        }
+
+        .header-image {
+            width: 50%; 
+            display: block;
+            margin: 20px auto;
+            border-radius: 10px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+
+        h1 {
+            text-align: center;
+            font-size: 2.5em;
+            color: #800080;
+            font-style: italic;
+            margin-top: 50px;
+            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+        }
+
+        hr {
+            border: none;
+            border-top: 3px dashed #800080; 
+            width: 80%;
+            margin: 20px auto;
+        }
+
+        .date {
+            position: absolute;
+            top: 20px;
+            right: 20px;
+            font-size: 0.8em;
+            color: #333;
+        }
+
+        .article {
+            width: 80%;
+            margin: 40px auto;
+            padding: 20px;
+            background-color: #fff;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            border-left: 5px solid #800080; 
+            border-right: 5px solid #800080;
+        }
+
+        p {
+            text-indent: 30px;
+            line-height: 1.6;
+            margin-bottom: 20px;
+        }
+
+        .signature {
+            font-size: 0.9em;
+            margin-top: 30px;
+            font-style: italic;
+            color: #666;
+        }
+
+        .author {
+            font-size: 0.9em;
+            margin-top: 10px;
+            text-align: left;
+            color: #800080;
+        }
+
+        .facebook-link {
+            display: block;
+            text-align: center;
+            margin-top: 40px;
+            font-size: 1em;
+            color: #3366cc;
+            text-decoration: none;
+            padding: 10px;
+            background-color: #f0f0f0;
+            border-radius: 5px;
+            box-shadow: 0 3px 6px rgba(0, 0, 0, 0.1);
+        }
+
+        .facebook-link a {
+            text-decoration: none;
+            color: inherit;
+        }
+
+        .facebook-link:hover {
+            background-color: #ddd; 
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); 
+        }
+
+        .signature-container {
+            display: flex;
+            flex-direction: column;
+            align-items: flex-start;
+        }
+       .comments-table {
+            width: 50%;
+            margin: 30px auto;
+            border-collapse: collapse;
+            background-color: #fff;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        .comments-table th, .comments-table td {
+            border: 1px solid #ddd;
+            padding: 8px;
+            text-align: left;
+        }
+
+        .comments-table th {
+            background-color: #f0f0f0;
+        }
+
+
+        .comment-form {
+            width: 60%;
+            margin: 20px auto;
+            background-color: #fff;
+            padding: 15px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        .comment-form input, .comment-form textarea {
+            width: 100%;
+            padding: 8px;
+            margin: 8px 0;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            font-size: 1em;
+        }
+
+        .comment-form button {
+            background-color: #800080;
+            color: white;
+            border: none;
+            padding: 8px 16px;
+            font-size: 1.1em;
+            cursor: pointer;
+            border-radius: 5px;
+        }
+
+        .comment-form button:hover {
+            background-color: #660066;
+        }
+    </style>
+</head>
+<body>
+
+    <img src="./Recenzja dla Bartusia_files/book-forest-with-tree-background-few-butterflies-flying-around-it_781958-1343.jpg" alt="Grafika" class="header-image">
+
+    <h1>"ZA ZAMKNIĘTYMI DRZWIAMI" - czy warto tam zaglądać?</h1>
+
+    <hr>
+
+    <div class="date">29.11.2024</div>
+
+    <div class="article">
+        <p>Prawdę mówiąc, nie wiem czy do przeczytania tej pozycji bardziej skłoniła mnie pokaźna kolekcja tekstów B.A. Paris w domowym zbiorze ulubionego współpracownika, czy moja siostra, z zapałem opowiadająca o niezwykłości thrillerów tej pisarki; wiem natomiast, że mimo owiania "Za zamkniętymi drzwiami" tytułem bestsellera - sama co najwyżej zerknęłabym na okładkę, bo-takich jak ona-widziałam dziesiątki, włócząc się jeszcze w czasach technikum po przyszkolnej bibliotece.</p>
+
+<p>Struktura tej opowieści wygląda przyjaźnie dla nieprofesjonalnych oczu zaciekawionych odbiorców. Użyty język nie przytłoczył mnie ani razu, a zdania wielokrotnie złożone pomagały tylko zanurzać się w historię, którą nakreśliła dla mnie Paris. Uwielbiam również zabieg retrospekcji, a z racji, że Pisarka dość umiejętnie budowała napięcie, odcinając TERAZ od KIEDYŚ (i na odwrót zresztą), ten tekst stał się jednym z niewielu, które pożarłam od deski do deski w zaledwie dwa dni.</p>
+
+<p>Koncept utworu może nie jest zbyt wyszukany, ale ze względu na samą jego istotę, uznaję ten tekst za warty przeczytania. Możliwe, że wywoła refleksje dotyczące osób sąsiadujących i przymilających się do nas na co dzień. Nie pomoże z pewnością ofiarom tak poważnej przemocy domowej, jaka dotknęła Grace, lecz pobudzenie czujności wśród obywateli jest dość istotne w dzisiejszym świecie. Na każdym kroku przecież przymilają się do nas wilki w owczej skórze...
+Podobały mi się subtelne podpowiedzi Paris, które wskazywały na to, że Angel to jednak devil, jak fakt prędkiego ślubu czy ubogiego życia seksualnego jeszcze na etapie narzeczeństwa pary; sam krajobraz też wiele sugerował. Kraty w oknie i wysokie ogrodzenie wokół wymarzonego domu państwa Angel, połączone ze słowami na okładce, było dość jednoznaczne. A jednak pozwoliłam się zwieść pozorom idylli, jak każdy człowiek!</p>
+
+<p>Z tego też względu z początku sympatyzowalam z główną bohaterką, rozumiejąc jej zachowanie i współczułam, gdy opowiadała o swojej codziennej rutynie. Jednak tak szybko, jak polubiłam się z trzydziestoczterolatką, tak i zaczęła mnie irytować jej postać. Denerwowało mnie to, jak wiele rzeczy Grace potrafi wytłumaczyć, byle nie spojrzeć na męża trzeźwo, jak na prawdziwego kata. To dzieło grubymi nićmi szyte. Nieprawdopodobne jest, żeby kobieta sukcesu przemieniła się tak łatwo w uległą kurę domową i prawdziwego więźnia. A jeśli ten proces był złożony i możliwy do wyjaśnienia, ubolewam nad tym, że burza uczuć i emocji panujących w bohaterach została tak skąpo opisana. Niektóre zachowania są dość wiarygodne - jak wpojenie bohaterce przez Jacka, że drzwi tajlandzkiego hotelu są zamknięte, bo to prawdopodobne, że zastraszony mózg Grace nie umiał działać logicznie. Może i tak działa syndrom sztokholmski, ale o wiele bardziej wolałam sceny opisujące mężczyznę, bo chociaż działał logicznie..
+Jack zachwycał mnie swoją przebiegłością, choć powątpiewam, czy w realu istnieją w ogóle aż tak wszechwiedzące jednostki. Jednak jeśli chodzi o jego sylwetkę i motywację - to wręcz niewybaczalne, że historię poznajemy z perspektywy kobiety; że nie starczyło miejsca (a może i umiejętności) na psychologiczny portret mężczyzny. Sama opowieść z dzieciństwa, która wywołała w nim traumę, mogła być wystarczającym elementem zaczepienia, by wyraźnie przedstawić jego wnętrze, które czerniało przecież dopiero z wiekiem, zalewane nieustannie złem tego świata.
+Chciałabym też wspomnieć, iż to bardzo dobroduszne, że Esther wymyśliła alibi w czasie zbrodni dla swojej koleżanki, więc też domyśliła się tego, że Grace mieszka z tyranem; zastanawia mnie tylko, czemu tak późno? Jakim cudem nasza narratorka pozostawała bez pomocy ze strony otoczenia przez niemal 1.5 roku, a parę dni wystarczyło, żeby najbliżsi jej ludzie zrozumieli, jaki nędzny żywot wiodła jako żona? Tutaj też zastanowiłabym się przy okazji, czy taką kobietę można by było nazwać prawdziwą przyjaciółką. Jednak, szczęśliwie, prawda zwyciężyła, a traumy, które zostały z bohaterami, nie są przecież najważniejsze dla fabuły.</p>
+
+<p>Jeśli dopiero zaczynasz swoją przygodę z thrillerami albo chcesz po prostu bez wysiłku poczuć się jak detektyw, biernie opalając się na plaży (lub na balkonie hihi), siegnij bez wahania za jej grzbiet. Paris nie zrobi z Ciebie Holmsa, ale wzbogacisz swój zasób słów, pobudzisz wizualną wyobraźnię i znajdziesz temat do rozmów z ciekawymi ludźmi.</p>
+
+<p></p>W każdym razie dzięki tej pozycji przypomniałam sobie też, jak bardzo uwielbiam czytać, więc mimo licznych niepochlebnych słów, byłabym zaszczycona możliwością przeczytania "Na skraju załamania". Ten tytuł nie pozostawia już złudzeń, co do jego odbioru, więc zamierzam uśmiechnąć się o taką możliwość do owego kolegi z pracy :)<p></p>
+
+        <div class="signature-container">
+            <div class="signature">Dzięki za przeczytanie</div>
+            <div class="author">Kate Smith</div>
+        </div>
+    </div>
+
+    <div class="facebook-link">
+        <a href="https://www.facebook.com/Pipex0" target="_blank">Kliknij tutaj, aby podyskutować z innymi o tym artykule</a>
+    </div>
+<div class="comment-form">
+            <h2>Dodaj komentarz</h2>
+            <form>
+                <label for="name">Nick:</label>
+                <input type="text" id="name" name="name" required="">
+
+                <label for="comment">Komentarz:</label>
+                <textarea id="comment" name="comment" rows="4" required=""></textarea>
+
+                <button type="submit">Wyślij</button>
+            </form>
+        </div>
+
+        <h2>Komentarze:</h2>
+      
+        <table class="comments-table">
+            <thead>
+                <tr>
+                    <th>Nick</th>
+                    <th>Komentarz</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Maciej Zagrodowy</td>
+                    <td>Piękna recenzja! Z chęcią poczytam więcej Twoich opinii o bestsellerach.</td>
+                </tr>
+                <tr>
+                    <td>Agata Winiarska</td>
+                    <td>Kto ją wpuścił na tę stronę? Ta ocena jest beznadziejna.</td>
+                </tr>
+            </tbody>
+        </table>
+
+    
+
+
+
+</body></html>
